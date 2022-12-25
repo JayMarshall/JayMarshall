@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alec</h1>
 <h3 align="center">I'm a Geospatial Professional who's pationate about Python</h3>
 
-- 🔭 I’m currently working on [puppy](https://github.com/JayMarshall/puppy)
+- 🔭 I’m currently working on [puppy](https://github.com/JayMarshall/puppy), a python geospatial API.
 
 - 🌱 I’m currently learning **FastAPI, Vue.js, HTMX**
 
