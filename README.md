@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alec</h1>
-<h3 align="center">I'm a Geospatial Professional who's pationate about Python</h3>
+<h3 align="center">I'm a Geospatial Professional who's pationate about Python and Data Science</h3>
 
-- 🔭 I’m currently working on [puppy](https://github.com/JayMarshall/puppy), a geospatial CMS written in Python.
+- 🔭 I’m currently working on [geopackager](https://github.com/JayMarshall/geopackager), a python library for working with GeoPackages.
 
 - 🌱 I’m currently learning **FastAPI and PyTorch**
 
