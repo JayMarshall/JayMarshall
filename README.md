@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Alec</h1>
-<h3 align="center">I'm a Geospatial Professional who's pationate about Python and Data Science</h3>
+<h3 align="center">I'm a Data Analyst who's pationate about Python, Spatial Statistics, and Coffee ☕</h3>
 
 - 🔭 I’m currently working on [geopackager](https://github.com/JayMarshall/geopackager), a python library for working with GeoPackages.
 
-- 🌱 I’m currently learning **FastAPI and PyTorch**
+- 🌱 I’m currently learning **PyTorch**
 
 - 👨‍💻 All of my projects are available at [http://github.com/jaymarshall](http://github.com/jaymarshall)
 
